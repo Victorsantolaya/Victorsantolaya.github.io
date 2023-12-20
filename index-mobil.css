@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(135, 35, 65);
+    margin: 0;
+}
+
+#titulo {
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(190, 49, 68);
+    margin-left: 0%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    border: 5px solid rgb(240, 89, 65);
+    color: rgb(34, 9, 44);
+}
+
+#foot {
+    background-color: rgb(34, 9, 44);
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+#formulario {
+    overflow: auto;
+    width: 90%;
+    height: 35%;
+    background-color: rgb(190, 49, 68);
+    border: 5px solid rgb(240, 89, 65);
+    float: none;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-bottom: 60px;
+}
+
+#left, #right {
+    float: none;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#boton {
+    text-align: center;
+}
